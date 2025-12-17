@@ -1,6 +1,6 @@
 # ICSWIGL - Accessibility Scaling App for Android
 
-## 🌟 FOR SALE - $4,500
+## 🌟 FOR SALE - $3,500
 
 Professional Android accessibility application with medical-grade text scaling and voice control.
 
@@ -34,4 +34,4 @@ Professional Android accessibility application with medical-grade text scaling a
 
 ---
 
-**Built for accessibility. Ready for launch. Perfect for Flippa buyers!**
+
