@@ -13,7 +13,7 @@ Professional Android accessibility application with medical-grade text scaling a
 ### ✨ Key Features
 
 - 📊 Medical-grade text scaling (11 precision levels)
-- 🎤 Voice control in 3 languages (EN/RU/RO)
+- 🎤 Voice control multilanguages
 - 🌐 Multilingual support
 - 🚀 Built-in accessible browser
 - 🔧 Dual operating modes (system-wide or standalone)
