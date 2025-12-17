@@ -21,7 +21,7 @@ Professional Android accessibility application with medical-grade text scaling a
 ### 💰 What You Get
 
 - Complete Kotlin source code (5,000+ LOC)
-- 3 language translations
+- Multi language translations
 - Medical-grade scaling algorithm
 - Voice recognition system
 - All assets and documentation
